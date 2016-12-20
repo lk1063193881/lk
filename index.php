@@ -20,3 +20,4 @@ define('TMPL_PATH', PROJECT_PATH . 'Templates/');
 // 引入ThinkPHP入口文件
 require THINK_PATH.'ThinkPHP.php';
 //111111
+//asasasssssssssssssssssssssss
